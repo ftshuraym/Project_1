@@ -1,7 +1,7 @@
 # Data Import and Cleaning
-Read in the saudi-arabia-traffic-accidents-2008.csv and saudi-arabia-driving-licenses-2004-2008.csv files and assign them to appropriately named pandas dataframes.
+### Read in the saudi-arabia-traffic-accidents-2008.csv and saudi-arabia-driving-licenses-2004-2008.csv files and assign them to appropriately named pandas dataframes.
 
-. dropping duplicate columns.
+### dropping duplicate columns.
 . Investigate missing values etc.
 . counting missing value in Licenses
 . finding the max and min
